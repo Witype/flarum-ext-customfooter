@@ -1,5 +1,5 @@
 {
-    "name": "davis/flarum-ext-customfooter",
+    "name": "witype/flarum-ext-customfooter",
     "description": "Allows Addition of Custom Footer",
     "keywords": ["flarum", "davis", "customization", "footer"],
     "type": "flarum-extension",
